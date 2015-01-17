@@ -13,5 +13,8 @@
 /*.pidb
 /*.booproj
 
+**/.DS_Store
+__MACOSX/
+
 #Unity3D Generated File On Crash Reports
 sysinfo.txt

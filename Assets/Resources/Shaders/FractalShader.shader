@@ -74,7 +74,7 @@
 
             #pragma vertex vert
             #pragma fragment frag
-            #pragma target 4.0
+            #pragma glsl
             
             #include "UnityCG.cginc"
             

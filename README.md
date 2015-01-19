@@ -9,4 +9,6 @@ Open the root folder of this project with Unity 4.6, open the scene MainScene.un
 
 ## License
 
-This code is available under the terms of the GPL v3
+This code is available under the terms of the GPL v3.
+
+The game's song (/Assets/Music/Last Level.mp3) is not included in the GPL v3 license - all rights are reserved for this track, and it may not be included with any redistribution of the code or compiled game

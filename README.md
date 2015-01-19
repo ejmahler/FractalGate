@@ -4,6 +4,9 @@ This is the source code for a Unity game called Fractal Gate: http://gamejolt.co
 
 It renders the Mandelbrot Set within a custom shader, and has code to control the color, rotation, etc of the rendered fractal.
 
+## Build Instructions
+Open the root folder of this project with Unity 4.6, open the scene MainScene.unity (in the Assets folder) and press play.
+
 ## License
 
 This code is available under the terms of the GPL v3

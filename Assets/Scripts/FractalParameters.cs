@@ -50,7 +50,7 @@ public class FractalParameters : MonoBehaviour {
 
         LeanTween.value(transform.gameObject, updateFunction, 1 - percentRemaining, 1.0f, _beatPulseDuration * percentRemaining)
             .setOnComplete( () => {
-                LeanTween.value(transform.gameObject, updateFunction, 1.0f, 0.0f, _beatPulseDuration * 2); 
+                LeanTween.value(transform.gameObject, updateFunction, 1.0f, 0.0f, _beatPulseDuration * 1.5f); 
             }
 		);
 	}
